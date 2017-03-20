@@ -1,0 +1,2 @@
+language: objective-c
+xcode_project: NotepadApp.xcodeproj # path to your xcodeproj folder
